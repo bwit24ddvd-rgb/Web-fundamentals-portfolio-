@@ -1,0 +1,10 @@
+CET138 Portfolio Deployment Manifest 
+Generated: Fri 01/16/2026 14:33:20.96 
+Files to deploy: 
+  - bootstrap.html 
+  - css.html 
+  - fullstack.html 
+  - html.html 
+  - index.html 
+  - javascript.html 
+  - README.md 
